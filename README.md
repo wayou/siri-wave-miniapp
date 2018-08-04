@@ -5,6 +5,6 @@
 
 ### preview
 
-![小程序 siri 波形图 预览](siri.gif)
+![小程序 siri 波形图 预览](assets/siri.gif)
 
 
