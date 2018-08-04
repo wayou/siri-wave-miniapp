@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "siri-wave": "components/siriWave/siriWave"
+    }
+}
