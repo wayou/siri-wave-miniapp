@@ -1,3 +1,0 @@
-<view class="siri-wave">
-    <canvas canvas-id="siri" style="width:100vw;height:100vh"></canvas>
-</view>
